@@ -1,2 +1,0 @@
-# mongodb-demo
-mongodb-demo
